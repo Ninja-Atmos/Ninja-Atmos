@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **suvam0961@gmail.com**
 
-- ⚡ Fun fact **192.168.0.1**
+- ⚡ Fun fact **Amateurs hack systems, professionals hack peoples.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
