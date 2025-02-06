@@ -19,9 +19,9 @@
 <a href="https://linkedin.com/in/suvam-biswas-156b09327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suvam-biswas-156b09327" height="30" width="40" /></a>
 <a href="https://fb.com/suvam0961" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suvam0961" height="30" width="40" /></a>
 <a href="https://instagram.com/suvam__biswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suvam__biswas" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ninja_atmos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ninja_atmos" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kabir_parker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kabir_parker" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/suvamdfof/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/suvamdfof/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@ninja_atmos/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ninja_atmos" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Ninja_Atmos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kabir_parker" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/suvamdfof/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/suvamdfof/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
