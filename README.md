@@ -1,7 +1,7 @@
 <img src="https://github.com/Ninja-Atmos/Ninja-Atmos/blob/main/profile_banner.jpg" alt="Banner Image" style="display: block; margin: 0 auto; width: 100%;">
 
 
-
+🧗‍♂️😄🤩🤖😛
 
 <h1 align="center">Hi 👋, I'm Suvam Biswas</h1>
 <h3 align="center">A passionate Ethical Hacker from India</h3>
